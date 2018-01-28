@@ -1,0 +1,162 @@
+/*
+Theme Name: BMG Master
+Theme URI: 
+Author: Dream-Theme
+Author URI: http://dream-theme.com/
+Description: Put simply, The7 is the world's most advanced WordPress theme. It features 630+ design customization options for power users and developers. People new to multipurpose WordPress themes will be delighted with The7 Design Wizard. It allows to choose basic settings like branding, colors, header layout, etc. and intelligently calculates all the rest. Voilà, your pro-grade site design is ready in mere minutes. Automatically! Add a seamless integration with Visual Composer page builder, Slider Revolution, WooCommerce, WPML (as well as other most popular plugins), and you get the definitive web-development toolkit. And, yes, it is SEO-ready.
+Version: 3.1.4
+License: This WordPress theme is comprised of two parts: (1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself.  You will find a copy of the license text in the same directory as this text file. Or you can read it here: http://wordpress.org/about/gpl/ (2) All other parts of the theme including, but not limited to the CSS code, images, and design are licensed according to the license purchased. Read about licensing details here: http://themeforest.net/licenses/regular_extended
+License URI: License.txt
+Tags: multipurpose, responsive, retina ready, SEO ready
+Text Domain: the7mk2
+*/
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 40%;
+  background: url(images/gplaypattern.jpg);
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+
+.header {background: #FFFFFF; 
+  border-top: 0px; 
+  
+  padding: 10px; 
+  
+  border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 4px;
+    border-bottom-width: 10px ;
+  border-bottom-style: solid;
+  border-bottom-color: #DB0703 ;
+}
+.corpo {background: #F4F4F4; 
+  border-top:0px;
+border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 4px;
+    border-bottom-width: 5px ;
+  border-bottom-style: solid;
+  border-bottom-color: #DB0703 ;
+
+
+}
+
+.corporesponsivel {background: #FFFFFF; 
+  border-top: 0px; 
+  
+  padding: 10px; 
+  
+  border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 4px;
+    border-bottom-width: 5px ;
+  border-bottom-style: solid;
+  border-bottom-color: #DB0703 ;
+
+
+}
+
+.barra {background: white; 
+  border-top:0px;
+   
+  padding: 10px; 
+  color: black;
+  border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 4px;
+
+}
+
+.escolha {background: #FFFFFF; 
+  
+  
+  padding: 10px; 
+  border-top-width: 5px ;
+  border-top-style: solid;
+  border-top-color: #DB0703 ;
+
+  border-top:0px;
+border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 4px;
+}
+
+.botao{
+    
+    background:    #DB0703;
+border-radius: 3px;
+box-shadow: 0 1px 0 0 #783f04;
+color: #fef1e7;
+display: inline-block;
+padding: 11px 12px;
+font: normal 800 14px/1 "Open Sans", sans-serif;
+text-align: center;
+text-shadow: 1px 1px 0 #999;
+  }
+
+  .whats{background: black; 
+  border-top:px;
+   
+  padding: 20px; 
+  color: white;
+  border: 2px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 5px
+
+}
+.ligue{background: #F47920; 
+  border-top:;
+   
+  padding: 20px; 
+  color: black;
+  border: 2px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 5px
+
+}
+
+.zero{background: #84A20B; 
+  border-top:;
+   
+  padding: 20px; 
+  color: #33332D;
+  border: 2px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    border-radius: 5px
+
+}
+
+.zeroheader{
+
+color:black;
+
+
+}
+
+
+
+
+
+.glyphiconligue{font-size: 18px;}
+
+
+
+#box{
+    border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    background: rgba(200, 200, 200, 0.1);
+    border-radius: 4px;
+    
+}
+
+h2{
+    text-align:center;
+    color:black;
+}
+
