@@ -97,7 +97,7 @@ echo "<h1>Lista de Pessoas</h1></br></br></br>";
   }
 
 
-  //  mysqli_close($link);  
+    mysqli_close($link);  
 
 ?>
 
